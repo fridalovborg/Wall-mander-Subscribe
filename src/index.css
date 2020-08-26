@@ -1,0 +1,10 @@
+body {
+	font-family: Avenir;
+	margin: 0;
+	background-color: #eee;
+}
+
+a:-webkit-any-link {
+	text-decoration: none;
+	color: inherit;
+}
